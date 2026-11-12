@@ -1,6 +1,6 @@
 # TilkiSoft yönlendirme
 
-Günlük otomatik video görevi her çalıştığında bu dosyayı okur ve buradaki talimatlar diğer kuralların önüne geçer.
+Şirketin bütün görevleri (günlük, haftalık, aylık) her çalıştığında önce bu dosyayı okur. Buradaki talimatlar oyun kitabının önüne geçer; anayasaya aykırı olamaz.
 Düzenlemek için GitHub'dan bu dosyayı değiştir ya da herhangi bir Claude sohbetinde "TilkiSoft notu: ..." yaz.
 
 ## Durum
@@ -8,7 +8,7 @@ Düzenlemek için GitHub'dan bu dosyayı değiştir ya da herhangi bir Claude so
 - Atlanacak tarihler: (yok)
 
 ## Bu dönemin odağı
-- (boş: Stratejist deney planına göre seçer)
+- (boş: haftalık ekip deney planına göre seçer)
 
 ## Kullanılmasın / tekrar edilmesin
 - (boş)
