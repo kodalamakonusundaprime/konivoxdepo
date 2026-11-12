@@ -1,0 +1,14 @@
+<!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"><title>tilkisoft motion</title>
+<style>
+/*FONTS*/
+html,body{margin:0;background:#000;overflow:hidden}svg{width:100vw;height:100vh;display:block}
+</style></head><body>
+<svg id="v" viewBox="0 0 1080 1920" preserveAspectRatio="xMidYMid meet"></svg>
+<script>/*JS*/</script>
+<script>
+const name=(location.hash.match(/#v=([\w-]+)/)||[])[1];
+const st=VIDEOS[name]||Object.values(VIDEOS)[0];
+const svg=document.getElementById('v');
+window.DUR=st.dur;window.seek=t=>{svg.innerHTML=st.render(t)};
+document.fonts.ready.then(()=>window.seek(0));
+</script></body></html>
