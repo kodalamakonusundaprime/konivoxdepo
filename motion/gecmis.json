@@ -68,6 +68,22 @@
     "tiktok": 425853154
    },
    "veri": null
+  },
+  {
+   "ad": "gonderi-tabela",
+   "tarih": "2026-11-12",
+   "tarz": "Göz İzi",
+   "kitle": "yerel işletme",
+   "ihtiyac": "kendine özgü tarz",
+   "kanca_turu": "benzetme / tespit",
+   "kanca": "Akıştaki her gönderin, dükkânının bir tabelası.",
+   "test": "ihtiyaç: tarz (görülmeyen kampanya ile tarz ve kitle aynı)",
+   "durum": "Metricool'da taslak (15 Kasım IG 18:10, TikTok 10:05); ücretsiz planda onay akışı yok",
+   "metricool_id": {
+    "instagram": 425981431,
+    "tiktok": 425981451
+   },
+   "veri": null
   }
  ]
 }
