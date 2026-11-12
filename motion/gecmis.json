@@ -9,8 +9,11 @@
    "kanca_turu": "kötü örneği ifşa",
    "kanca": "Bu cümle müşteri kaçırıyor",
    "test": "ilk deneme",
-   "durum": "üretildi, yayınlanmadı",
-   "metricool_id": null,
+   "durum": "zamanlandı: 2026-11-12 20:37",
+   "metricool_id": {
+    "instagram": 426000354,
+    "tiktok": 426000375
+   },
    "veri": null
   },
   {
@@ -21,8 +24,11 @@
    "kanca_turu": "bakış testi",
    "kanca": "Bu gönderide göz nereye gidiyor?",
    "test": "ilk deneme",
-   "durum": "üretildi, yayınlanmadı",
-   "metricool_id": null,
+   "durum": "zamanlandı: 2026-11-13 02:00",
+   "metricool_id": {
+    "instagram": 426000400,
+    "tiktok": 426000421
+   },
    "veri": null
   },
   {
@@ -33,8 +39,11 @@
    "kanca_turu": "soru",
    "kanca": "Müşteri önce neye bakar?",
    "test": "ilk deneme",
-   "durum": "üretildi, yayınlanmadı",
-   "metricool_id": null,
+   "durum": "zamanlandı: 2026-11-13 11:00",
+   "metricool_id": {
+    "instagram": 426000448,
+    "tiktok": 426000464
+   },
    "veri": null
   },
   {
