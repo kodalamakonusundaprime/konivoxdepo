@@ -1,0 +1,8 @@
+{
+ "aciklama": "Her video bir kayıt. Skill her çalıştığında yeni videoyu ekler; yayından en az 2 gün sonra 'veri' alanını Metricool'dan doldurur. Deney dönemi: her tarz ve kitleden en az 2 verili video olana kadar her videoda tek değişken test edilir.",
+ "videolar": [
+  {"ad": "dm-cumlesi", "tarih": "2026-11-12", "tarz": "Tek Kalem", "kitle": "yerel işletme", "kanca_turu": "kötü örneği ifşa", "kanca": "Bu cümle müşteri kaçırıyor", "test": "ilk deneme", "durum": "üretildi, yayınlanmadı", "metricool_id": null, "veri": null},
+  {"ad": "gonderi-testi", "tarih": "2026-11-12", "tarz": "Göz İzi", "kitle": "yerel işletme", "kanca_turu": "bakış testi", "kanca": "Bu gönderide göz nereye gidiyor?", "test": "ilk deneme", "durum": "üretildi, yayınlanmadı", "metricool_id": null, "veri": null},
+  {"ad": "yorumlar", "tarih": "2026-11-12", "tarz": "Kalem Bakışı", "kitle": "yerel işletme", "kanca_turu": "soru", "kanca": "Müşteri önce neye bakar?", "test": "ilk deneme", "durum": "üretildi, yayınlanmadı", "metricool_id": null, "veri": null}
+ ]
+}
