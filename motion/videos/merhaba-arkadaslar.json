@@ -1,0 +1,8 @@
+{
+ "video": "merhaba-arkadaslar",
+ "wav": "/tmp/merhaba-arkadaslar.wav",
+ "out": "/home/claude/out/merhaba-arkadaslar.mp4",
+ "note": "Puck sesi atempo=1.07 ile hızlandırıldı (16.3 sn -> 15.25 sn)",
+ "anchors": [[0,0],[2.4,2.4],[2.75,3.0],[3.3,3.7],[4.86,4.6],[6.3,5.3],[7.3,5.5],[7.94,6.0],[8.6,6.75],[9.16,7.2],[10.0,7.9],[11.4,8.0],[12.4,8.8],[12.6,9.7],[12.95,10.3],[13.9,10.45],[14.35,10.6],[16.1,13.5]],
+ "fx": [["whoosh",2.4,0.5],["scratch",3.0,0.5],["pop",3.7,0],["scratch",4.6,0.7],["pop",5.5,0],["whoosh",6.0,0.7],["scratch",7.2,0.7],["pop",8.0,0],["whoosh",9.65,0.5],["ding",10.6,0]]
+}
