@@ -1,8 +1,73 @@
 {
  "aciklama": "Her video bir kayıt. Skill her çalıştığında yeni videoyu ekler; yayından en az 2 gün sonra 'veri' alanını Metricool'dan doldurur. Deney dönemi: her tarz ve kitleden en az 2 verili video olana kadar her videoda tek değişken test edilir.",
  "videolar": [
-  {"ad": "dm-cumlesi", "tarih": "2026-11-12", "tarz": "Tek Kalem", "kitle": "yerel işletme", "kanca_turu": "kötü örneği ifşa", "kanca": "Bu cümle müşteri kaçırıyor", "test": "ilk deneme", "durum": "üretildi, yayınlanmadı", "metricool_id": null, "veri": null},
-  {"ad": "gonderi-testi", "tarih": "2026-11-12", "tarz": "Göz İzi", "kitle": "yerel işletme", "kanca_turu": "bakış testi", "kanca": "Bu gönderide göz nereye gidiyor?", "test": "ilk deneme", "durum": "üretildi, yayınlanmadı", "metricool_id": null, "veri": null},
-  {"ad": "yorumlar", "tarih": "2026-11-12", "tarz": "Kalem Bakışı", "kitle": "yerel işletme", "kanca_turu": "soru", "kanca": "Müşteri önce neye bakar?", "test": "ilk deneme", "durum": "üretildi, yayınlanmadı", "metricool_id": null, "veri": null}
+  {
+   "ad": "dm-cumlesi",
+   "tarih": "2026-11-12",
+   "tarz": "Tek Kalem",
+   "kitle": "yerel işletme",
+   "kanca_turu": "kötü örneği ifşa",
+   "kanca": "Bu cümle müşteri kaçırıyor",
+   "test": "ilk deneme",
+   "durum": "üretildi, yayınlanmadı",
+   "metricool_id": null,
+   "veri": null
+  },
+  {
+   "ad": "gonderi-testi",
+   "tarih": "2026-11-12",
+   "tarz": "Göz İzi",
+   "kitle": "yerel işletme",
+   "kanca_turu": "bakış testi",
+   "kanca": "Bu gönderide göz nereye gidiyor?",
+   "test": "ilk deneme",
+   "durum": "üretildi, yayınlanmadı",
+   "metricool_id": null,
+   "veri": null
+  },
+  {
+   "ad": "yorumlar",
+   "tarih": "2026-11-12",
+   "tarz": "Kalem Bakışı",
+   "kitle": "yerel işletme",
+   "kanca_turu": "soru",
+   "kanca": "Müşteri önce neye bakar?",
+   "test": "ilk deneme",
+   "durum": "üretildi, yayınlanmadı",
+   "metricool_id": null,
+   "veri": null
+  },
+  {
+   "ad": "gorulmeyen-kampanya",
+   "tarih": "2026-11-12",
+   "tarz": "Göz İzi",
+   "kitle": "yerel işletme",
+   "ihtiyac": "müşteri bulma",
+   "kanca_turu": "görünmeyen kayıp",
+   "kanca": "Bu gönderide göz nereye gidiyor?",
+   "test": "ilk deneme (eski skill)",
+   "durum": "Metricool'da taslak (13 Kasım IG 18:10, TikTok 10:05)",
+   "metricool_id": {
+    "instagram": 425826771,
+    "tiktok": 425826804
+   },
+   "veri": null
+  },
+  {
+   "ad": "merhaba-arkadaslar",
+   "tarih": "2026-11-12",
+   "tarz": "Tek Kalem",
+   "kitle": "içerik üreticisi",
+   "ihtiyac": "müşteri bulma",
+   "kanca_turu": "kötü örneği ifşa",
+   "kanca": "'Merhaba arkadaşlar' deyince çoktan kaydırdılar.",
+   "test": "ilk deneme (eski skill); kullanıcı 'yeterince yaratıcı değil' dedi",
+   "durum": "Metricool'da taslak (14 Kasım IG 18:10, TikTok 10:05)",
+   "metricool_id": {
+    "instagram": 425853140,
+    "tiktok": 425853154
+   },
+   "veri": null
+  }
  ]
 }
