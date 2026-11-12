@@ -1,4 +1,4 @@
-/* Tek Kalem şekilli testler (sessiz, açık zemin): vitrin çizimi, kampanya illüstrasyonu, saat.
+/* Tek Kalem onaylı örnekleri (açık zemin, şekilli): ts-vitrin (karşılaştırma), ts-kampanya (sözün yerine resim), ts-saat (zamanın geçişi). Yeni videolar bunlardan ilham alır, kopyalamaz.
    Kalem yalnızca yazının üstünü çizmez; şekil de çizer. Üç videoda üç farklı görsel fikir. */
 const TS={BG:'#EFE8DC',PAPER:'#FFFDF8',INK:'#141414',MUTE:'#7D7466',SH:'#5a4a32'};
 const tsLine=(d,lw=6,c=TS.INK,op)=>`<path d="${d}" fill="none" stroke="${c}" stroke-width="${lw}" stroke-linecap="round" stroke-linejoin="round"${op!=null?` opacity="${f2(op)}"`:''}/>`;

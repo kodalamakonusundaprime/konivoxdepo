@@ -3,7 +3,7 @@ Kullanım: python3 tools/final.py config.json
 config.json:
 {
   "video": "dm-cumlesi",            # VIDEOS[...] adı (build/page.html içinde)
-  "wav": "/tmp/ses.wav",            # Speko'dan gelen Puck sesi (24 kHz mono wav)
+  "wav": "/tmp/ses.wav",            # Speko'dan gelen Puck sesi (24 kHz mono wav); yoksa sessiz video
   "out": "/home/claude/out/x.mp4",
   "anchors": [[0,0],[2.3,3.0],...], # [ses_zamanı_tau, tasarım_zamanı_t]; son çapa = video sonu (ses bitişi + ~1 sn)
   "fx": [["whoosh",6.0,0.7],["pop",3.8,0],...]  # [tür, tasarım zamanı, süre]; türler: whoosh scratch pop tick ding
@@ -53,7 +53,8 @@ async def frames(name, xs, ys, dur, d):
 
 def main(cfg):
     c = json.load(open(cfg)); xs = [a for a, _ in c['anchors']]; ys = [b for _, b in c['anchors']]; dur = xs[-1]
-    sr, v = wavfile.read(c['wav']); v = v.astype(np.float32)/32768.0
+    if c.get('wav'): sr, v = wavfile.read(c['wav']); v = v.astype(np.float32)/32768.0
+    else: v = np.zeros(int(SR*dur), np.float32)  # sessiz test videosu
     if v.ndim > 1: v = v.mean(1)
     mix = np.zeros(int(SR*(dur+.2)), np.float32); mix[:len(v)] += v[:len(mix)]
     for kind, t0, dd in c.get('fx', []):
