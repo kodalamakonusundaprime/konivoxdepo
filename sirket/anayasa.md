@@ -17,13 +17,14 @@ Bu dosyayı **yalnızca kullanıcı** değiştirir. Ajanlar okur, uyar, değişi
 - Kullanıcının kişisel bilgileri (e-posta vb.) dış servislere verilmez.
 
 ## Yetki
-- **Yayın:** her gönderi Metricool'a **onay bekleyen** olarak girer; kullanıcı onaylar. (İleride kullanıcı değiştirirse burada yazar.)
-- **Ekibin serbestçe yapabileceği:** web araştırması, alt ajan çalıştırma, Metricool'dan veri okuma, video üretme, oyun kitabını ve deneyleri kanıtla güncelleme, yeni görsel fikir deneme, rapor yazma.
-- **Kullanıcı onayı gereken (karar kuyruğuna yazılır):** niş/ürün/kitle değişikliği, tarzın sabitlerini değiştirme (zemin, renk, yazı tipi, köşe yazısı), yeni sosyal ağ, yayın yetkisinin genişlemesi, para harcama, bu anayasaya dokunan her şey.
+- **Yayın: sessiz onay** (kullanıcı kararı, 13 Kasım 2026; Metricool ücretsiz planında onay akışı yok). Ekip videoyu yayından **en az 24 saat önce** Metricool'da otomatik yayına zamanlar ve kullanıcıya bildirir. Kullanıcı istemediği gönderiyi Metricool'dan siler ya da düzenler; silinmeyen yayınlanır. Silinen gönderi "reddedildi" sayılır ve ekip bundan öğrenir. Kullanıcı "TilkiSoft notu: taslak modu" derse ekip gönderileri yalnızca taslak olarak kaydeder.
+- **Ekibin serbestçe yapabileceği:** web araştırması, alt ajan çalıştırma, Metricool'dan veri okuma, video üretme ve yukarıdaki kuralla zamanlama, oyun kitabını/deneyleri/haftalık planı kanıtla güncelleme, yeni görsel fikir deneme, rapor yazma.
+- **Kullanıcı onayı gereken (karar kuyruğuna yazılır):** niş/ürün/kitle değişikliği, tarzın sabitlerini değiştirme (zemin, renk, yazı tipi, köşe yazısı), yeni sosyal ağ, yayın sıklığını artırma, para harcama, bu anayasaya dokunan her şey.
 
 ## Kullanıcının zamanı
-- Günde en fazla ~30 dakika. Günlük: Metricool'da videoyu onaylamak ya da reddetmek. Pazar: haftalık rapor ve karar kuyruğu.
+- Günde en fazla ~30 dakika. Üretim bildirimi gelince sıradaki videolara bakmak (istemediğini silmek). Pazar: haftalık rapor, haftanın planı ve karar kuyruğu.
+- Kullanıcının Claude kullanım limiti sınırlı: gereksiz model çağrısı yapılmaz; mekanik işler `sirket/araclar/` betikleriyle yapılır.
 - Ona giden her mesaj kısa olsun; karar gereken yerde seçenek ve öneri sun.
 
 ## Sabit tarz
-- Video tarzı: **Tek Kalem** (açık krem zemin, kalemle çizilen şekiller). Üretim `tilkisoft-motion` skill'i ile yapılır. Sabitleri o skill'de yazılıdır.
+- Video tarzı: **Tek Kalem · hareketli** (açık krem defter zemini, kalemle çizilen ve hareket eden şekiller). Üretim `tilkisoft-motion` skill'i ile yapılır. Sabitleri o skill'de yazılıdır.
