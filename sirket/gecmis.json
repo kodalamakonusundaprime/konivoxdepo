@@ -93,6 +93,66 @@
     "tiktok": 425981451
    },
    "veri": null
+  },
+  {
+   "ad": "mesaj-kulesi",
+   "tarih": "2026-11-13",
+   "tarz": "Tek Kalem · hareketli",
+   "kitle": "yerel işletme",
+   "ihtiyac": "yorulmak",
+   "gorsel_fikir": "mesaj balonu kulesi → hazır cevap kutusu",
+   "kanca": "Aynı soruyu yüzüncü kez cevaplayan, satışa vakit bulamaz.",
+   "test": "5 günlük seri, IG/TikTok sırası farklı",
+   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 14 Kasım, TikTok 16 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
+   "veri": null
+  },
+  {
+   "ad": "kova",
+   "tarih": "2026-11-13",
+   "tarz": "Tek Kalem · hareketli",
+   "kitle": "yerel işletme",
+   "ihtiyac": "müşteri kaybı",
+   "gorsel_fikir": "delik kova, ₺ akar, yama ile dolar",
+   "kanca": "Kovan delikse, daha çok reklam daha çok kayıptır.",
+   "test": "5 günlük seri, IG/TikTok sırası farklı",
+   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 15 Kasım, TikTok 14 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
+   "veri": null
+  },
+  {
+   "ad": "on-gonderi",
+   "tarih": "2026-11-13",
+   "tarz": "Tek Kalem · hareketli",
+   "kitle": "yerel işletme",
+   "ihtiyac": "yapay zekâ gösterimi / yorulmak",
+   "gorsel_fikir": "tek fotoğraf 10 kareye çoğalır, sayaç",
+   "kanca": "Bir fotoğraftan on gönderi çıkar, çoğu işletme birini çıkarır.",
+   "test": "5 günlük seri, IG/TikTok sırası farklı",
+   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 16 Kasım, TikTok 18 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
+   "veri": null
+  },
+  {
+   "ad": "hedef",
+   "tarih": "2026-11-13",
+   "tarz": "Tek Kalem · hareketli",
+   "kitle": "yerel işletme",
+   "ihtiyac": "kendine özgü tarz",
+   "gorsel_fikir": "hedef tahtası, dağınık oklar → tek ok merkeze",
+   "kanca": "Herkese satmaya çalışan, kimsenin aklında kalmaz.",
+   "test": "5 günlük seri, IG/TikTok sırası farklı",
+   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 17 Kasım, TikTok 15 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
+   "veri": null
+  },
+  {
+   "ad": "tabela",
+   "tarih": "2026-11-13",
+   "tarz": "Tek Kalem · hareketli",
+   "kitle": "yerel işletme",
+   "ihtiyac": "görünmemek",
+   "gorsel_fikir": "boş tabela + 3 sn kronometre, kayıp gider",
+   "kanca": "Üç saniyede ne sattığını anlatamayan sayfa kaydırılır.",
+   "test": "5 günlük seri, IG/TikTok sırası farklı",
+   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 18 Kasım, TikTok 17 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
+   "veri": null
   }
  ]
 }
