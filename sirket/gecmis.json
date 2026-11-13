@@ -55,7 +55,7 @@
    "kanca_turu": "görünmeyen kayıp",
    "kanca": "Bu gönderide göz nereye gidiyor?",
    "test": "ilk deneme (eski skill)",
-   "durum": "Metricool'da taslak (13 Kasım IG 18:10, TikTok 10:05)",
+   "durum": "Metricool'da taslak (13 Kasım IG 18:10, TikTok 10:05); kullanıcı kararı 13 Kasım: yayınlanmayacak, taslak kalıyor",
    "metricool_id": {
     "instagram": 425826771,
     "tiktok": 425826804
@@ -71,7 +71,7 @@
    "kanca_turu": "kötü örneği ifşa",
    "kanca": "'Merhaba arkadaşlar' deyince çoktan kaydırdılar.",
    "test": "ilk deneme (eski skill); kullanıcı 'yeterince yaratıcı değil' dedi",
-   "durum": "Metricool'da taslak (14 Kasım IG 18:10, TikTok 10:05)",
+   "durum": "Metricool'da taslak (14 Kasım IG 18:10, TikTok 10:05); kullanıcı kararı 13 Kasım: yayınlanmayacak, taslak kalıyor",
    "metricool_id": {
     "instagram": 425853140,
     "tiktok": 425853154
@@ -87,7 +87,7 @@
    "kanca_turu": "benzetme / tespit",
    "kanca": "Akıştaki her gönderin, dükkânının bir tabelası.",
    "test": "ihtiyaç: tarz (görülmeyen kampanya ile tarz ve kitle aynı)",
-   "durum": "Metricool'da taslak (15 Kasım IG 18:10, TikTok 10:05); ücretsiz planda onay akışı yok",
+   "durum": "Metricool'da taslak (15 Kasım IG 18:10, TikTok 10:05); ücretsiz planda onay akışı yok; kullanıcı kararı 13 Kasım: yayınlanmayacak, taslak kalıyor",
    "metricool_id": {
     "instagram": 425981431,
     "tiktok": 425981451
@@ -103,8 +103,12 @@
    "gorsel_fikir": "mesaj balonu kulesi → hazır cevap kutusu",
    "kanca": "Aynı soruyu yüzüncü kez cevaplayan, satışa vakit bulamaz.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 13 Kasım, TikTok 15 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
-   "veri": null
+   "durum": "zamanlandı (sesli): IG 13 Kasım 18:50, TikTok 15 Kasım 18:24",
+   "veri": null,
+   "metricool_id": {
+    "instagram": 427099170,
+    "tiktok": 427099981
+   }
   },
   {
    "ad": "kova",
@@ -115,8 +119,12 @@
    "gorsel_fikir": "delik kova, ₺ akar, yama ile dolar",
    "kanca": "Kovan delikse, daha çok reklam daha çok kayıptır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 14 Kasım, TikTok 13 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
-   "veri": null
+   "durum": "zamanlandı (sesli): IG 14 Kasım 18:12, TikTok 13 Kasım 19:02",
+   "veri": null,
+   "metricool_id": {
+    "instagram": 427099897,
+    "tiktok": 427099199
+   }
   },
   {
    "ad": "on-gonderi",
@@ -127,8 +135,12 @@
    "gorsel_fikir": "tek fotoğraf 10 kareye çoğalır, sayaç",
    "kanca": "Bir fotoğraftan on gönderi çıkar, çoğu işletme birini çıkarır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 15 Kasım, TikTok 17 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
-   "veri": null
+   "durum": "zamanlandı (sesli): IG 15 Kasım 18:12, TikTok 17 Kasım 18:24",
+   "veri": null,
+   "metricool_id": {
+    "instagram": 427099963,
+    "tiktok": 427100082
+   }
   },
   {
    "ad": "hedef",
@@ -139,8 +151,12 @@
    "gorsel_fikir": "hedef tahtası, dağınık oklar → tek ok merkeze",
    "kanca": "Herkese satmaya çalışan, kimsenin aklında kalmaz.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 16 Kasım, TikTok 14 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
-   "veri": null
+   "durum": "zamanlandı (sesli): IG 16 Kasım 18:12, TikTok 14 Kasım 18:24",
+   "veri": null,
+   "metricool_id": {
+    "instagram": 427100005,
+    "tiktok": 427099926
+   }
   },
   {
    "ad": "tabela",
@@ -151,8 +167,12 @@
    "gorsel_fikir": "boş tabela + 3 sn kronometre, kayıp gider",
    "kanca": "Üç saniyede ne sattığını anlatamayan sayfa kaydırılır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "hazır, Metricool'a yüklenmedi; plan: IG 17 Kasım, TikTok 16 Kasım (IG 18:12, TikTok 18:24); ses bekliyor",
-   "veri": null
+   "durum": "zamanlandı (sesli): IG 17 Kasım 18:12, TikTok 16 Kasım 18:24",
+   "veri": null,
+   "metricool_id": {
+    "instagram": 427100052,
+    "tiktok": 427100033
+   }
   }
  ]
 }
