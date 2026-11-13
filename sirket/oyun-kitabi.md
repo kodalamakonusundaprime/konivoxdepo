@@ -48,9 +48,14 @@ Ekibin çalışma kuralları. **Haftalık ekip** kanıtla değiştirir: her değ
 - Satış/teklif dili yok.
 
 ## Yayın
-- Her gün bir video; **aynı video Instagram'a 18:12, TikTok'a 18:24** (İstanbul) gider. Instagram ve TikTok ayrı gönderidir (açıklamalar farklı).
-- Sessiz onay: en az 24 saat önceden zamanlanır (anayasa). Saatleri haftalık ekip veriyle değiştirebilir.
+- **Haftada 5 video, hafta içi** (pazartesi–cuma). Aynı video aynı gün Instagram'a 18:12, TikTok'a 18:24 (İstanbul).
+- **Metricool ücretsiz plan: ayda 20 yayın** (her ağ ayrı sayılır, taslaklar sayılmaz). Bu yüzden:
+  - Instagram Metricool ile otomatik yayınlanır, ay içinde kota dolana kadar.
+  - **TikTok her zaman elle:** video ve metin `sirket/elle-paylas.md`'ye yazılır, kullanıcı telefonundan yükler.
+  - Instagram kotası dolarsa o ayın kalan Instagram videoları da elle listesine gider.
+- Sessiz onay: Metricool gönderisi en az 24 saat önceden zamanlanır (anayasa). Saatleri haftalık toplantı veriyle değiştirebilir.
 
 ## Değişiklik günlüğü
 - 2026-11-13: İlk sürüm (kullanıcıyla yapılan eğitim ve ilk 6 videodan). Tarz Tek Kalem'e indirildi, açık zemin ve şekilli anlatım (kullanıcı tercihi).
 - 2026-11-13: Kullanıcının fikir eğitim turu işlendi (ben dili, üç dert, beğenilen/reddedilen kancalar), tarz Tek Kalem · hareketli, yayın saatleri 18:12/18:24 ve sessiz onay (kullanıcı tercihi).
+- 2026-11-13: Metricool ücretsiz planı ayda 20 yayınla sınırlı (kullanıcı kararı: ücretsiz kal, TikTok elle). Haftada 5 video (hafta içi), TikTok elle paylaşım listesine.

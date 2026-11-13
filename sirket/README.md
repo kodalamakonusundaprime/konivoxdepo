@@ -11,18 +11,20 @@ Yapay zekâ ekibinin hafızası. Her görev önce bu dosyaları okur, iş bitinc
 | `deneyler.md` | ekip | açık hipotezler ve sonuçları |
 | `karar-kuyrugu.md` | ekip yazar, kullanıcı karar verir | onay gereken öneriler |
 | `gecmis.json` | üretim turu (betikle) | her video, yayın zamanları ve verisi |
+| `elle-paylas.md` | üretim turu (betikle) | **kullanıcının elle paylaşacağı** videolar (TikTok her zaman), bağlantı ve metinle |
 | `raporlar/` | haftalık/aylık toplantı | raporlar |
 | `araclar/` | – | mekanik işler için betikler (model çağrısı gerektirmez) |
 
 ## Takvim
 | Görev | Zaman (İstanbul) | Ne yapar |
 |---|---|---|
-| Üretim turu | Pazartesi ve perşembe 12:09 | Boş günleri doldurur (en fazla 4 video), sessiz onayla zamanlar, eksik veriyi çeker |
+| Üretim turu | Pazartesi ve perşembe 12:09 | Hafta içi boş günleri doldurur (pazartesi turu: salı–perşembe, perşembe turu: cuma ve pazartesi), Instagram'ı Metricool'a zamanlar, TikTok'u elle listesine yazar, eksik veriyi çeker |
 | Haftalık toplantı | Pazar 20:17 | Veri → deney sonuçları → oyun kitabı → gelecek haftanın planı → rapor |
 | Aylık iş araştırması | Her ayın 1'i 21:13 | Ne satılabilir, kime, kaç liraya; alternatif niş |
 
 ## Betikler (`sirket/araclar/`)
-- `python3 stok.py --kadar YYYY-MM-DD` → önümüzdeki günlerde hangi ağda hangi video var, `DOLDUR:` satırında boş günler
+- `python3 stok.py --kadar YYYY-MM-DD --hafta-ici` → önümüzdeki günlerde hangi ağda hangi video var, `DOLDUR:` satırında boş hafta içi günleri
+- `python3 elle.py --yaz` → elle paylaşılacaklar listesini `elle-paylas.md`'ye yazar
 - `python3 kayit.py liste --son 10` → ajan istemi için son videolar tablosu
 - `python3 kayit.py eksik-veri` → verisi çekilmesi gereken videolar (Metricool kimlikleriyle)
 - `python3 kayit.py ekle|durum|veri …` → `gecmis.json` kaydı

@@ -127,16 +127,18 @@
    "gorsel_fikir": "mesaj balonu kulesi → hazır cevap kutusu",
    "kanca": "Aynı soruyu yüzüncü kez cevaplayan, satışa vakit bulamaz.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 13 Kasım 18:50, TikTok 15 Kasım 18:24",
+   "durum": "zamanlandı (sesli): IG 13 Kasım 18:50, TikTok 15 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
    "veri": null,
    "metricool_id": {
     "instagram": 427099170,
-    "tiktok": 427099981
+    "tiktok": null
    },
    "yayin": {
     "instagram": "2026-11-13T18:50",
-    "tiktok": "2026-11-15T18:24"
-   }
+    "tiktok": "elle:2026-11-15T18:24"
+   },
+   "metricool_taslak_tiktok": 427264259,
+   "tiktok_metin": "Aynı soru, yüzüncü kez 😮‍💨\n\nTekrar eden soruları ayıkla, gerçek müşteri öne çıksın.\n\nSana en çok hangi soru geliyor? Yoruma yaz 👇\n\n🤖 Bu video yapay zekâ ile üretildi.\n\n#dm #işletme #otomasyon #küçükişletme #keşfet"
   },
   {
    "ad": "kova",
@@ -167,16 +169,18 @@
    "gorsel_fikir": "tek fotoğraf 10 kareye çoğalır, sayaç",
    "kanca": "Bir fotoğraftan on gönderi çıkar, çoğu işletme birini çıkarır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 15 Kasım 18:12, TikTok 17 Kasım 18:24",
+   "durum": "zamanlandı (sesli): IG 15 Kasım 18:12, TikTok 17 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
    "veri": null,
    "metricool_id": {
     "instagram": 427099963,
-    "tiktok": 427100082
+    "tiktok": null
    },
    "yayin": {
     "instagram": "2026-11-15T18:12",
-    "tiktok": "2026-11-17T18:24"
-   }
+    "tiktok": "elle:2026-11-17T18:24"
+   },
+   "metricool_taslak_tiktok": 427264283,
+   "tiktok_metin": "1 foto = 10 gönderi 📸\n\nTek kare; kırpılır, yazı eklenir, önce/sonra yapılır, hikâyeye bölünür.\n\nTelefonunda kaç kullanılmamış fotoğraf var? Yoruma yaz 👇\n\n🤖 Bu video yapay zekâ ile üretildi.\n\n#yapayzeka #içerik #instagram #küçükişletme #keşfet"
   },
   {
    "ad": "hedef",
@@ -187,16 +191,18 @@
    "gorsel_fikir": "hedef tahtası, dağınık oklar → tek ok merkeze",
    "kanca": "Herkese satmaya çalışan, kimsenin aklında kalmaz.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 16 Kasım 18:12, TikTok 14 Kasım 18:24",
+   "durum": "zamanlandı (sesli): IG 16 Kasım 18:12, TikTok 14 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
    "veri": null,
    "metricool_id": {
     "instagram": 427100005,
-    "tiktok": 427099926
+    "tiktok": null
    },
    "yayin": {
     "instagram": "2026-11-16T18:12",
-    "tiktok": "2026-11-14T18:24"
-   }
+    "tiktok": "elle:2026-11-14T18:24"
+   },
+   "metricool_taslak_tiktok": 427264238,
+   "tiktok_metin": "Herkese satan kimseye satamaz 🎯\n\nKime sattığını tek cümleyle söyleyebiliyor musun?\n\nSenin müşterini tek cümleyle anlat. Yoruma yaz 👇\n\n🤖 Bu video yapay zekâ ile üretildi.\n\n#marka #işletme #instagram #küçükişletme #keşfet"
   },
   {
    "ad": "tabela",
@@ -207,16 +213,18 @@
    "gorsel_fikir": "boş tabela + 3 sn kronometre, kayıp gider",
    "kanca": "Üç saniyede ne sattığını anlatamayan sayfa kaydırılır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 17 Kasım 18:12, TikTok 16 Kasım 18:24",
+   "durum": "zamanlandı (sesli): IG 17 Kasım 18:12, TikTok 16 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
    "veri": null,
    "metricool_id": {
     "instagram": 427100052,
-    "tiktok": 427100033
+    "tiktok": null
    },
    "yayin": {
     "instagram": "2026-11-17T18:12",
-    "tiktok": "2026-11-16T18:24"
-   }
+    "tiktok": "elle:2026-11-16T18:24"
+   },
+   "metricool_taslak_tiktok": 427264267,
+   "tiktok_metin": "3 saniye kuralı ⏱️\n\nProfilin ilk ekranda ne sattığını, kime ve nerede söylüyor mu?\n\nÜç sorunun kaçı cevaplı? Yoruma yaz 👇\n\n🤖 Bu video yapay zekâ ile üretildi.\n\n#instagram #işletme #profil #küçükişletme #keşfet"
   }
  ]
 }

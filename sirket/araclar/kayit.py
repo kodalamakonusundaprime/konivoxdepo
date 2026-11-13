@@ -1,5 +1,6 @@
 """gecmis.json kayıt aracı.
-  ekle   --ad --tarih --ihtiyac --gorsel --kanca [--kanca-turu] [--deney] [--plan-satiri] --ig-id --tt-id --ig-zaman YYYY-MM-DDTHH:MM --tt-zaman ...
+  ekle   --ad --tarih --ihtiyac --gorsel --kanca [--kanca-turu] [--deney] [--plan-satiri] [--ig-id] --ig-zaman YYYY-MM-DDTHH:MM --tt-zaman elle:YYYY-MM-DDTHH:MM --ig-metin '…' --tt-metin '…'
+         (Metricool kotası dolduysa --ig-zaman de 'elle:' ile başlar, --ig-id verilmez)
   durum  --ad --durum "metin"
   veri   --ad --json '{"instagram":{...},"tiktok":{...},"cekildi":"YYYY-MM-DD"}'
   eksik-veri         yayından ≥2 gün geçmiş, verisi boş videolar (Metricool kimlikleriyle)
@@ -7,7 +8,7 @@
 import argparse, json, sys, datetime as dt
 from ortak import yukle, kaydet, bugun, aktif
 a = argparse.ArgumentParser(); a.add_argument('komut')
-for k in ['ad','tarih','ihtiyac','gorsel','kanca','kanca-turu','deney','plan-satiri','ig-id','tt-id','ig-zaman','tt-zaman','durum','json']: a.add_argument('--'+k)
+for k in ['ad','tarih','ihtiyac','gorsel','kanca','kanca-turu','deney','plan-satiri','ig-id','tt-id','ig-zaman','tt-zaman','ig-metin','tt-metin','durum','json']: a.add_argument('--'+k)
 a.add_argument('--son', type=int, default=10)
 o = a.parse_args(); d = yukle(); V = d['videolar']
 bul = lambda ad: next((v for v in V if v['ad'] == ad), None)
@@ -17,7 +18,7 @@ if o.komut == 'ekle':
               'kanca_turu': o.kanca_turu, 'kanca': o.kanca, 'deney': o.deney, 'plan_satiri': o.plan_satiri,
               'durum': 'zamanlandı (sessiz onay: silinmezse yayınlanır)',
               'metricool_id': {'instagram': int(o.ig_id) if o.ig_id else None, 'tiktok': int(o.tt_id) if o.tt_id else None},
-              'yayin': {'instagram': o.ig_zaman, 'tiktok': o.tt_zaman}, 'veri': None})
+              'yayin': {'instagram': o.ig_zaman, 'tiktok': o.tt_zaman}, 'instagram_metin': o.ig_metin, 'tiktok_metin': o.tt_metin, 'veri': None})
 elif o.komut == 'durum':
     bul(o.ad)['durum'] = o.durum
 elif o.komut == 'veri':
@@ -27,7 +28,7 @@ elif o.komut == 'eksik-veri':
     for v in V:
         if v.get('veri') or not aktif(v): continue
         for ag, z in (v.get('yayin') or {}).items():
-            if z and dt.date.fromisoformat(z[:10]) <= s:
+            if z and not z.startswith('elle:') and dt.date.fromisoformat(z[:10]) <= s:
                 print(v['ad'], ag, z, (v.get('metricool_id') or {}).get(ag))
     sys.exit()
 elif o.komut == 'liste':
