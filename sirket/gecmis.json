@@ -14,7 +14,22 @@
     "instagram": 426000354,
     "tiktok": 426000375
    },
-   "veri": null,
+   "veri": {
+    "instagram": {
+     "izlenme": 133,
+     "erisim": 108,
+     "ilk3": 23.6,
+     "ort_sure": 4.789,
+     "kaydetme": 0,
+     "paylasim": 0
+    },
+    "tiktok": {
+     "izlenme": 519,
+     "begeni": 4,
+     "paylasim": 0
+    },
+    "cekildi": "2026-11-16"
+   },
    "yayin": {
     "instagram": "2026-11-12T20:37",
     "tiktok": "2026-11-12T20:37"
@@ -28,12 +43,27 @@
    "kanca_turu": "bakış testi",
    "kanca": "Bu gönderide göz nereye gidiyor?",
    "test": "ilk deneme",
-   "durum": "zamanlandı: 2026-11-13 02:00",
+   "durum": "yayınlandı https://www.instagram.com/reel/DfqMhC7FMG4/ (IG 13 Kasım 02:00; TikTok 7707424552925580565)",
    "metricool_id": {
     "instagram": 426000400,
     "tiktok": 426000421
    },
-   "veri": null,
+   "veri": {
+    "instagram": {
+     "izlenme": 144,
+     "erisim": 116,
+     "ilk3": 36.8,
+     "ort_sure": 6.323,
+     "kaydetme": 1,
+     "paylasim": 0
+    },
+    "tiktok": {
+     "izlenme": 596,
+     "begeni": 11,
+     "paylasim": 1
+    },
+    "cekildi": "2026-11-16"
+   },
    "yayin": {
     "instagram": "2026-11-13T02:00",
     "tiktok": "2026-11-13T02:00"
@@ -47,12 +77,28 @@
    "kanca_turu": "soru",
    "kanca": "Müşteri önce neye bakar?",
    "test": "ilk deneme",
-   "durum": "zamanlandı: 2026-11-13 11:00",
+   "durum": "yayınlandı https://www.instagram.com/reel/DfrKIjBgKS5/ (IG 13 Kasım 11:00; TikTok 7707563144335412481)",
    "metricool_id": {
     "instagram": 426000448,
     "tiktok": 426000464
    },
-   "veri": null,
+   "veri": {
+    "instagram": {
+     "izlenme": 1,
+     "erisim": 1,
+     "ilk3": 0.0,
+     "ort_sure": 5.648,
+     "kaydetme": 0,
+     "paylasim": 0
+    },
+    "tiktok": {
+     "izlenme": 91,
+     "begeni": 2,
+     "paylasim": 0
+    },
+    "cekildi": "2026-11-16",
+    "not": "IG izlenme 1: Metricool verisi böyle, dağıtım kısıtlanmış olabilir"
+   },
    "yayin": {
     "instagram": "2026-11-13T11:00",
     "tiktok": "2026-11-13T11:00"
@@ -127,8 +173,18 @@
    "gorsel_fikir": "mesaj balonu kulesi → hazır cevap kutusu",
    "kanca": "Aynı soruyu yüzüncü kez cevaplayan, satışa vakit bulamaz.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 13 Kasım 18:50, TikTok 15 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
-   "veri": null,
+   "durum": "yayınlandı https://www.instagram.com/reel/Dfr_kj4kkEm/ (IG 13 Kasım 18:50; TikTok elle)",
+   "veri": {
+    "instagram": {
+     "izlenme": 160,
+     "erisim": 128,
+     "ilk3": 40.2,
+     "ort_sure": 5.56,
+     "kaydetme": 0,
+     "paylasim": 0
+    },
+    "cekildi": "2026-11-16"
+   },
    "metricool_id": {
     "instagram": 427099170,
     "tiktok": null
@@ -149,8 +205,23 @@
    "gorsel_fikir": "delik kova, ₺ akar, yama ile dolar",
    "kanca": "Kovan delikse, daha çok reklam daha çok kayıptır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 14 Kasım 18:12, TikTok 13 Kasım 19:02",
-   "veri": null,
+   "durum": "yayınlandı https://www.instagram.com/reel/DfugD-LIMbE/ (IG 14 Kasım 18:12; TikTok 7707688469501332742, 13 Kasım 19:02)",
+   "veri": {
+    "instagram": {
+     "izlenme": 142,
+     "erisim": 114,
+     "ilk3": 58.3,
+     "ort_sure": 6.136,
+     "kaydetme": 0,
+     "paylasim": 0
+    },
+    "tiktok": {
+     "izlenme": 93,
+     "begeni": 2,
+     "paylasim": 0
+    },
+    "cekildi": "2026-11-16"
+   },
    "metricool_id": {
     "instagram": 427099897,
     "tiktok": 427099199
@@ -169,7 +240,7 @@
    "gorsel_fikir": "tek fotoğraf 10 kareye çoğalır, sayaç",
    "kanca": "Bir fotoğraftan on gönderi çıkar, çoğu işletme birini çıkarır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 15 Kasım 18:12, TikTok 17 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
+   "durum": "yayınlandı https://www.instagram.com/reel/DfxEytUiAOP/ (IG 15 Kasım 18:12; TikTok elle 17 Kasım)",
    "veri": null,
    "metricool_id": {
     "instagram": 427099963,
