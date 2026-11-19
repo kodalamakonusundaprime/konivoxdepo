@@ -2,51 +2,6 @@
 
 Videoyu bağlantıdan indir, metni kopyala, belirtilen saatte paylaş. TikTok'ta "Yapay zekâ ile oluşturuldu" etiketini aç.
 
-## 2026-11-15 18:24 · TikTok · mesaj-kulesi
-Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/mesaj-kulesi.mp4
-
-```
-Aynı soru, yüzüncü kez 😮‍💨
-
-Tekrar eden soruları ayıkla, gerçek müşteri öne çıksın.
-
-Sana en çok hangi soru geliyor? Yoruma yaz 👇
-
-🤖 Bu video yapay zekâ ile üretildi.
-
-#dm #işletme #otomasyon #küçükişletme #keşfet
-```
-
-## 2026-11-16 18:24 · TikTok · tabela
-Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/tabela.mp4
-
-```
-3 saniye kuralı ⏱️
-
-Profilin ilk ekranda ne sattığını, kime ve nerede söylüyor mu?
-
-Üç sorunun kaçı cevaplı? Yoruma yaz 👇
-
-🤖 Bu video yapay zekâ ile üretildi.
-
-#instagram #işletme #profil #küçükişletme #keşfet
-```
-
-## 2026-11-17 18:24 · TikTok · on-gonderi
-Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/on-gonderi.mp4
-
-```
-1 foto = 10 gönderi 📸
-
-Tek kare; kırpılır, yazı eklenir, önce/sonra yapılır, hikâyeye bölünür.
-
-Telefonunda kaç kullanılmamış fotoğraf var? Yoruma yaz 👇
-
-🤖 Bu video yapay zekâ ile üretildi.
-
-#yapayzeka #içerik #instagram #küçükişletme #keşfet
-```
-
 ## 2026-11-18 18:24 · TikTok · yarim-saat
 Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/yarim-saat.mp4
 
@@ -94,5 +49,75 @@ Son müşterin seni en son ne zaman duydu? Yoruma yaz 👇
 #işletme #küçükişletme #esnaf #müşteri #girişimci
 
 TikTok başlığı: Sessizce giden müşteri
+```
+
+## 2026-11-20 18:12 · Instagram (Reels) · ayni-iz
+Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/ayni-iz.mp4
+
+```
+Her gönderinde aynı iz varsa, seni adından önce tanırlar.
+
+Videoda anlatmadığımız kısım:
+• Instagram profil ızgarası artık kare değil, dikey dikdörtgen gösteriyor. İzi karenin kenarına çok yaslarsan ızgarada kırpılabilir.
+• Paylaştıktan sonra bir gönderinin ızgarada hangi kısmının görüneceğini ayarlamak mümkün.
+• İz illa logo olmak zorunda değil: hep aynı köşe, aynı yazı tipi ya da hep aynı açıdan çekilmiş fotoğraf da iz olur.
+• Zor olan izi bulmak değil; her gönderide, acele ettiğin günlerde bile aynı kalmasını sağlamak.
+
+Senin gönderilerinde her seferinde tekrar eden bir iz var mı?
+
+🤖 Bu video yapay zekâ ile üretildi.
+
+#işletmesahibi #küçükişletme #girişimci #markakimliği #kendinetarz #instagram #sosyalmedya
+```
+
+## 2026-11-20 18:24 · TikTok · ayni-iz
+Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/ayni-iz.mp4
+
+```
+Her gönderinde aynı iz varsa, seni adından önce tanırlar.
+
+İz illa logo olmak zorunda değil; hep aynı köşe ya da aynı yazı tipi de iz olur.
+
+Senin sayfanda her gönderide tekrar eden bir şey var mı?
+
+🤖 Bu video yapay zekâ ile üretildi.
+
+#işletmesahibi #küçükişletme #girişimci #markakimliği #tarz
+(Başlık: Aynı iz, akılda kalır)
+```
+
+## 2026-11-23 18:12 · Instagram (Reels) · yedi-aksam
+Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/yedi-aksam.mp4
+
+```
+Yedi akşamlık iş, bir pazartesi sabahına sığıyor.
+
+Videoda anlatmadığımız kısım:
+• Instagram, profesyonel hesaplarda bir gönderiyi uygulamanın içinden ileri bir tarihe zamanlamaya izin veriyor.
+• Yapay zekânın yazdığı şey bir taslaktır; fiyat, saat, adres gibi bilgileri ben her seferinde kendim kontrol ederim.
+• Haftayı tek seferde görmek, aynı konunun üst üste iki gün gelmesini de baştan önler.
+• Meta, gerçekçi görünen yapay zekâ videosu ya da sesi paylaşılırken bunun etiketle belirtilmesini istiyor.
+
+Senin haftanda gönderiye en çok hangi akşam gidiyor?
+
+🤖 Bu video yapay zekâ ile üretildi.
+
+#işletmesahibi #küçükişletme #girişimci #yapayzeka #instagram #sosyalmedya #zamanyönetimi
+```
+
+## 2026-11-23 18:24 · TikTok · yedi-aksam
+Video: https://raw.githubusercontent.com/kodalamakonusundaprime/konivoxdepo/main/motion/yayin/yedi-aksam.mp4
+
+```
+Yedi akşamlık iş, bir pazartesi sabahına sığıyor.
+
+TikTok, gerçekçi görünen yapay zekâ içeriklerinin etiketle ya da açıklamayla belirtilmesini istiyor.
+
+Senin haftanda gönderiye en çok hangi akşam gidiyor?
+
+🤖 Bu video yapay zekâ ile üretildi.
+
+#işletmesahibi #küçükişletme #girişimci #yapayzeka #zamanyönetimi
+(Başlık: Yedi akşam, tek sabah)
 ```
 
