@@ -241,7 +241,17 @@
    "kanca": "Bir fotoğraftan on gönderi çıkar, çoğu işletme birini çıkarır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
    "durum": "yayınlandı https://www.instagram.com/reel/DfxEytUiAOP/ (IG 15 Kasım 18:12; TikTok elle 17 Kasım)",
-   "veri": null,
+   "veri": {
+    "instagram": {
+     "izlenme": 150,
+     "erisim": 119,
+     "ilk3": 37.1,
+     "ort_sure": 5.754,
+     "kaydetme": 0,
+     "paylasim": 0
+    },
+    "cekildi": "2026-11-19"
+   },
    "metricool_id": {
     "instagram": 427099963,
     "tiktok": null
@@ -262,8 +272,18 @@
    "gorsel_fikir": "hedef tahtası, dağınık oklar → tek ok merkeze",
    "kanca": "Herkese satmaya çalışan, kimsenin aklında kalmaz.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 16 Kasım 18:12, TikTok 14 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
-   "veri": null,
+   "durum": "yayınlandı https://www.instagram.com/reel/DfzpmCRADPP/ (IG 16 Kasım 18:12; TikTok elle)",
+   "veri": {
+    "instagram": {
+     "izlenme": 139,
+     "erisim": 114,
+     "ilk3": 59.3,
+     "ort_sure": 6.456,
+     "kaydetme": 0,
+     "paylasim": 0
+    },
+    "cekildi": "2026-11-19"
+   },
    "metricool_id": {
     "instagram": 427100005,
     "tiktok": null
@@ -284,8 +304,18 @@
    "gorsel_fikir": "boş tabela + 3 sn kronometre, kayıp gider",
    "kanca": "Üç saniyede ne sattığını anlatamayan sayfa kaydırılır.",
    "test": "5 günlük seri, IG/TikTok sırası farklı",
-   "durum": "zamanlandı (sesli): IG 17 Kasım 18:12, TikTok 16 Kasım 18:24 | TikTok elle (Metricool kotası, 13 Kasım)",
-   "veri": null,
+   "durum": "yayınlandı https://www.instagram.com/reel/Df2OXtnDpcT/ (IG 17 Kasım 18:12; TikTok elle)",
+   "veri": {
+    "instagram": {
+     "izlenme": 153,
+     "erisim": 124,
+     "ilk3": 46.4,
+     "ort_sure": 5.574,
+     "kaydetme": 0,
+     "paylasim": 0
+    },
+    "cekildi": "2026-11-19"
+   },
    "metricool_id": {
     "instagram": 427100052,
     "tiktok": null
@@ -307,7 +337,7 @@
    "kanca": "Günde yarım saat az görünür, yılda bir iş ayı eder.",
    "deney": "D1 (yorulmak: zamanın geçişi vs mesaj-kulesi), D2 (otomasyon)",
    "plan_satiri": "yok (plan boş; Yaratıcı Yönetmen oyun kitabına göre seçti)",
-   "durum": "zamanlandı (sessiz onay: silinmezse yayınlanır): IG 18 Kasım 18:12 Metricool; TikTok elle",
+   "durum": "yayınlandı https://www.instagram.com/reel/Df4zLYukyMT/ (IG 18 Kasım 18:12; TikTok elle)",
    "metricool_id": {
     "instagram": 429782093,
     "tiktok": null
